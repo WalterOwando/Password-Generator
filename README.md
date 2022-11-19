@@ -7,4 +7,4 @@ The passowrd contains:
 - [x] numbers
 
 <font color='red'>Don't forget to save your password, since it generates the passwords randomly.</font>
-[Click here]() to generate your password :)
+[Click here](https://el-maudra-password-generator-app-s7ttlg.streamlit.app/) to generate your password :)
