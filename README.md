@@ -6,4 +6,4 @@ The passowrd contains:
 - [x] symbols
 - [x] numbers
 
-<font color='red'>**Don't forget to save your password, since it generates the passwords randomly.**</font>
+<font color='red'>Don't forget to save your password, since it generates the passwords randomly.</font>
