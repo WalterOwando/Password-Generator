@@ -6,7 +6,7 @@ body = st.container()
 
 alphabets = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 number = "0123456789"
-symbols = "!@#_-\/()[]^?|!&*."
+symbols = "!@#_-\/()[]^?:;,+=!&*."
 
 generated_password = alphabets + number + symbols 
 length_for_password = 20
